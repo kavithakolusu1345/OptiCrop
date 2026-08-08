@@ -1,3 +1,4 @@
+
 # OptiCrop – Crop Recommendation System
 
 AI-powered crop recommendation using **Flask**, **Bootstrap**, and **scikit-learn Random Forest**.
@@ -80,3 +81,5 @@ Upload files, install requirements, then configure WSGI to point to `app.py`.
 - `/` — Solution dashboard with workflow, benefits, and tech stack
 - `/prediction` — Input form + live Random Forest predictions
 - `/about` — Project descriptions
+git add README.md
+
